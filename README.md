@@ -2,10 +2,6 @@
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
 
-Not too sure about certain things, let me know if there's any issues.
-
-Won't be doing anything for ray tracing, no motivation.
-
 # Installation
 
 Choose one ``Engine.ini`` config and other files if needed
